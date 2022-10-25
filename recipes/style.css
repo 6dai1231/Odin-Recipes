@@ -1,0 +1,28 @@
+
+
+img {
+    height: 100px;
+    width: 190px;
+
+}
+
+.sub-head{
+    color: red;
+    font-family: ;
+}
+
+ul li{
+    color: blue;
+}
+
+ol li{
+    color: red;
+}
+
+.link {
+    color: white;
+    background-color: orange;
+}
+
+
+
